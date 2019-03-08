@@ -40,7 +40,7 @@ Add dependency in your app module
 
 ```
 dependencies {
-	compile 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
+	implementation 'com.github.HM-hack-and-tech:AwesomeToast-Android:1.0'
 }
 ```
 
@@ -48,7 +48,7 @@ dependencies {
 
 ### Java
 ```
-AwwesomeToast.makeText(getApplicationContext(), "Hello World !", AwesomeToast.LENGTH_LONG, AwesomeToast.WARNING);
+AwesomeToast.makeText(getApplicationContext(), "Hannan Max here...", AwesomeToast.LENGTH_LONG, AwesomeToast.WARNING);
 ```
 Last parameter here is the type of toast you want to show.
 
