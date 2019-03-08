@@ -1,4 +1,5 @@
-# TastyToast
+
+# AwesomeToast
 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-11%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11)
@@ -25,6 +26,16 @@ Grab the above demo app from here :
 
 ## Dependency
 
+Add it in your root build.gradle at the end of repositories
+```
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }	
+	}
+}
+```
+
 Add dependency in your app module
 
 ```
@@ -37,14 +48,14 @@ dependencies {
 
 ### Java
 ```
-TastyToast.makeText(getApplicationContext(), "Hello World !", TastyToast.LENGTH_LONG, TastyToast.WARNING);
+AwwesomeToast.makeText(getApplicationContext(), "Hello World !", AwesomeToast.LENGTH_LONG, AwesomeToast.WARNING);
 ```
 Last parameter here is the type of toast you want to show.
 
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/yadav-rahul/TastyToast/pulls).
+[pull requests](https://github.com/HM-hack-and-tech/AwesomeToast-Android/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
@@ -54,7 +65,7 @@ but will be thoroughly reviewed .
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2016 Rahul Yadav
+Copyright 2019 Hannan Max
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
