@@ -8,12 +8,12 @@
 Make your native android toast look beautiful.
 
 ## Preview
-![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/success.gif)
-![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/warning.gif)
-![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/error.gif)
-![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/info.gif)
-![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/default.gif)
-![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/confusion.gif)
+![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/SUCCESS.gif)
+![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/WARNING.gif)
+![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/ERROR.gif)
+![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/INFO.gif)
+![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/DEFAULT.gif)
+![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/CONFUSING.gif)
 
 ## About
 
