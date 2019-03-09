@@ -39,7 +39,7 @@ Add dependency in your app module
 
 ```
 dependencies {
-	implementation 'com.github.HM-hack-and-tech:AwesomeToast-Android:1.0'
+	implementation 'com.github.HMDevCoders:AwesomeToast-Android:1.0'
 }
 ```
 
