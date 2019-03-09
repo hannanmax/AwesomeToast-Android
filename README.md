@@ -4,7 +4,7 @@
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-11%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Developed By](https://img.shields.io/badge/Android%20Arsenal-@Hannan_Max-red.svg?style=flat)](https://www.instagram.com/hannan_max/)
+[![Developed By](https://img.shields.io/badge/Instagram-@Hannan_Max-green.svg?style=flat)](https://www.instagram.com/hannan_max/)
 
 Make your native android toast look beautiful.
 
