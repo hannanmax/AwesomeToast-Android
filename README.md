@@ -8,12 +8,15 @@
 Make your native android toast look beautiful.
 
 ## Preview
-![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/SUCCESS.gif)
-![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/WARNING.gif)
-![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/ERROR.gif)
-![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/INFO.gif)
-![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/DEFAULT.gif)
-![gif](https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/CONFUSING.gif)
+<div align="center">
+  <img hight="350" width="150" alt="GIF" align="center" src="https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/SUCCESS.gif">
+  <img hight="350" width="150" alt="GIF" align="center" src="https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/WARNING.gif">
+  <img hight="350" width="150" alt="GIF" align="center" src="https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/ERROR.gif">
+  </br>
+  <img hight="350" width="150" alt="GIF" align="center" src="https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/INFO.gif">
+  <img hight="350" width="150" alt="GIF" align="center" src="https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/DEFAULT.gif">
+  <img hight="350" width="150" alt="GIF" align="center" src="https://github.com/HMDevCoders/AwesomeToast-Android/blob/master/AwesomeToastGIF/CONFUSING.gif">
+</div>
 
 ## About
 
